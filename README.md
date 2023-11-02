@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Samson T. Oketunmbi</h1>
-<h3 align="center">Front end developer with 3+ years of experience designing and building responsive web design and mobile apps in the financial industry.</h3>
+<h3 align="center"> Front-end developer with 5+ years of experience designing and building responsive web design and mobile apps in the financial industry.</h3>
 
 - 👨‍💻 All of my portfolio projects are available at [www.samsonoketunmbi.com](www.samsonoketunmbi.com)
 
